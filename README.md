@@ -11,4 +11,3 @@ If you like my repository, you may also like:
 
 # License
 
-Please see [LICENSE](https://github.com/wchen-r7/VulnCases/blob/master/LICENSE)
