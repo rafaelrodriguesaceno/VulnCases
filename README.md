@@ -9,6 +9,3 @@ If you like my repository, you may also like:
 * [Carnegie Mellon University: SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
 * [Carnegie Mellon University: SEI CERT C++ Coding Standard](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
 
-# License
-
-Please see [LICENSE](https://github.com/wchen-r7/VulnCases/blob/master/LICENSE)
